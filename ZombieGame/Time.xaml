@@ -1,0 +1,21 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="ZombieGame.Time" d:DesignHeight="480" Width="120" Height="75">
+	<UserControl.Resources>
+		<Storyboard x:Name="CountTime"/>
+	</UserControl.Resources>
+
+	<Canvas x:Name="LayoutRoot">
+		<Canvas.Background>
+			<LinearGradientBrush EndPoint="0.559,1.11" StartPoint="0.461,0.13">
+				<GradientStop Color="#FFEDE36A" Offset="0.22"/>
+				<GradientStop Color="#FFE51B1B" Offset="1"/>
+			</LinearGradientBrush>
+		</Canvas.Background>
+		<TextBlock x:Name="TimeBlock" Height="75" TextWrapping="Wrap" Width="120" FontSize="64" FontFamily="Adobe Caslon Pro Bold"/>
+	</Canvas>
+</UserControl>

@@ -1,0 +1,8 @@
+﻿<Application
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="ZombieGame.App">
+	<Application.Resources>
+		<!-- 範圍設在應用程式層級的資源應在此處定義。 -->
+	</Application.Resources>
+</Application>

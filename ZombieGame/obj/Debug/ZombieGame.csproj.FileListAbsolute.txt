@@ -1,0 +1,375 @@
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\Stage1_1.g.i.cs
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+D:\workspace\Visual Studio2010\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\Stage1_1.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+C:\Documents and Settings\Administrator\桌面\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\Stage1_1.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+C:\Users\Lilis\Desktop\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\Balltest.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\Balltest.pdb
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\Stage1_1.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\TimeOut.g.i.cs
+C:\Users\Administrator\Desktop\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\Balltest.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\Balltest.pdb
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\Stage1_1.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\TimeOut.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ZombieGame.xap
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\TestPage.html
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\Balltest.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\Balltest.pdb
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\ZombieGame.g.resources
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\ZombieGame.dll
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\ZombieGame.pdb
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\SelectStage.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\Stage1_2.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\Time.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\TimeOut.g.i.cs
+C:\Users\Administrator\Desktop\ProjectNew這個有改過HANK的專案之後都是用這個改得\ZombieGame\ZombieGame\obj\Debug\WelcomePage.g.i.cs

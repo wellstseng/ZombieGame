@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ZombieGameSite", "ZombieGameSite\", "{01AAD53C-9504-4787-B206-A9237F165E82}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ZombieGameSite"
+		Debug.AspNetCompiler.PhysicalPath = "ZombieGameSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ZombieGameSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ZombieGameSite"
+		Release.AspNetCompiler.PhysicalPath = "ZombieGameSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ZombieGameSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51025"
+		ProjOutputReferences = "{8bca32b2-a5a8-4178-b1af-06eccc8464f7}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieGame", "ZombieGame\ZombieGame.csproj", "{8BCA32B2-A5A8-4178-B1AF-06ECCC8464F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balltest", "..\Balltest\Balltest\Balltest.csproj", "{A3CB611C-C8F8-4B7B-8C47-3ADE25E58BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AAD53C-9504-4787-B206-A9237F165E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AAD53C-9504-4787-B206-A9237F165E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AAD53C-9504-4787-B206-A9237F165E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AAD53C-9504-4787-B206-A9237F165E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCA32B2-A5A8-4178-B1AF-06ECCC8464F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCA32B2-A5A8-4178-B1AF-06ECCC8464F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCA32B2-A5A8-4178-B1AF-06ECCC8464F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCA32B2-A5A8-4178-B1AF-06ECCC8464F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CB611C-C8F8-4B7B-8C47-3ADE25E58BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CB611C-C8F8-4B7B-8C47-3ADE25E58BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CB611C-C8F8-4B7B-8C47-3ADE25E58BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CB611C-C8F8-4B7B-8C47-3ADE25E58BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
